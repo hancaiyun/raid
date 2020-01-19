@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.nicehancy</groupId>
 	<artifactId>raid</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>raid</name>
 	<description>this is a project for raid</description>
 
